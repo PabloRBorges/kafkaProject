@@ -1,2 +1,2 @@
-# Kafka Project Exemplo
-This is a project Kafka exemplo for using with .NET C#
+# Kafka Project Template
+This is a Template for Kafka Projects for using with .NET C#
